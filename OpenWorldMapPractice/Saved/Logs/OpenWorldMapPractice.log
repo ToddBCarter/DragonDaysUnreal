@@ -1411,3 +1411,18 @@ LogConfig: Set CVar [[r.VRS.EnableSoftware:1]]
 [2025.06.25-19.10.26:178][356]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (4%)
 [2025.06.25-19.10.26:178][356]LogShaderCompilers: Display: Material Cache Hits: 80 (43%)
 [2025.06.25-19.10.26:178][356]LogShaderCompilers: Display: ================================================
+[2025.06.25-19.12.49:219][785]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 332.535706
+[2025.06.25-19.12.50:219][788]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.25-19.12.50:219][788]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 333.205750, Update Interval: 308.340698
+[2025.06.25-19.18.00:631][719]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 643.926941
+[2025.06.25-19.18.01:635][722]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.25-19.18.01:635][722]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 644.593811, Update Interval: 302.922455
+[2025.06.25-19.23.09:382][645]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 952.660034
+[2025.06.25-19.23.10:381][648]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.25-19.23.10:381][648]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 953.325928, Update Interval: 316.459839
+[2025.06.25-19.28.36:132][625]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1279.391357
+[2025.06.25-19.28.37:133][628]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.25-19.28.37:133][628]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1280.061523, Update Interval: 330.813934
+[2025.06.25-19.34.28:895][683]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1632.135986
+[2025.06.25-19.34.29:895][687]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.25-19.34.29:895][687]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1632.803467, Update Interval: 318.785370
